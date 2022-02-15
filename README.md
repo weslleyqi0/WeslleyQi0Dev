@@ -1,4 +1,4 @@
-## Olá eu sou a Weslley Santos!
+## Olá eu sou Weslley Santos!
 <div align="center">
   <a href="https://github.com/weslleyqi0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyqi0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
