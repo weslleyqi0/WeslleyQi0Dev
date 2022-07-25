@@ -4,6 +4,8 @@
 - Aprimorando minhas habilidades em Kotlin/Android
 - Fale comigo:
 
+<br>
+
 <div> 
   <a href="https://youtube.com/channel/UChSdaLgBUplfO9je04v94eQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/weslleyqi0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,15 +14,7 @@
   <a href="https://wa.me/message/YNGC4WZZTGEPB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-<div align="center">
-  <a href="https://github.com/weslleyqi0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyqi0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyqi0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ##
+ <br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
@@ -28,11 +22,14 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://a.imagem.app/A5XUrE.png">
+  <img align="center" alt="Rafa-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
- 
-<div> 
- 
-  ![Snake animation](https://github.com/weslleyqi0/weslleyqi0/blob/output/github-contribution-grid-snake.svg)
- 
+
+
+##
+
+<div align="center">
+  <a href="https://github.com/weslleyqi0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyqi0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyqi0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
