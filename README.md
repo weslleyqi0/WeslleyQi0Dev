@@ -1,4 +1,7 @@
 ## Olá eu sou Weslley Santos!
+
+- Atualmente estou Estudando o Santander Bootcamp Mobile Developer na plataforma da [Digital Innovation One](https://web.dio.me/)
+
 <div align="center">
   <a href="https://github.com/weslleyqi0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyqi0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,6 +24,9 @@
   <a href="https://youtube.com/channel/UC-OmA2WhIvvYK7CFk0WVhFw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/weslleyqi0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslleyqi0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=weslleyqi0@gmail.com&su=SUBJECT&body=BODY" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/message/YNGC4WZZTGEPB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
  
   ![Snake animation](https://github.com/weslleyqi0/weslleyqi0/blob/output/github-contribution-grid-snake.svg)
  
