@@ -10,7 +10,7 @@
   <a href="https://youtube.com/channel/UChSdaLgBUplfO9je04v94eQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/weslleyqi0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weslleyqi0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=weslleyqi0@gmail.com&su=SUBJECT&body=BODY" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="mailto:weslleyqi0@gmail.com?Subject="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/message/YNGC4WZZTGEPB1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -24,7 +24,6 @@
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
-
 
 ##
 
