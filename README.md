@@ -1,6 +1,6 @@
 ## Olá eu sou Weslley Santos!
 
-- Atualmente estou Estudando o Santander Bootcamp Mobile Developer na plataforma da [Digital Innovation One](https://web.dio.me/)
+- Atualmente estou Estudando o Curso Android Moderno e Profissional ministrado pelo prfossor Douglas Motta
 - Aprimorando minhas habilidades em Kotlin/Android
 - Fale comigo:
 
